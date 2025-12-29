@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "idk",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8044a774-0f9d-468b-93fd-1f9711b8ee94",
+			"database_name": "k"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
